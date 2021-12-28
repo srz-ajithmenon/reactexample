@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Ajith Menon",
+      "email": "ajithachus20@gmail.com",
+      "phone": "8281750948",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "praveen",
+      "phone": "8606062582",
+      "email": "praveenckd@gmail.com"
+    }
+  ]
+}
